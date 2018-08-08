@@ -66,6 +66,7 @@
   * [Go编程文档](http://docscn.studygolang.com/doc/)
   * [GoGC](https://github.com/KeKe-Li/book/blob/master/Go/go-gc.pdf)
   * [Go设计模式](http://tmrts.com/go-patterns/)
+  * [Go Meetup](https://github.com/gopherchina/meetup)
 #### docker
   * [Docker中文指南](https://github.com/widuu/chinese_docker)
   * [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
@@ -85,6 +86,7 @@
   * [Shell十三问](https://github.com/wzb56/13_questions_of_shell)
   * [Shell编程范例](https://tinylab.gitbooks.io/shellbook/content/zh/chapters/01-chapter1.html)
   * [Linux 内核揭密](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)
+  * [常用命令集合](https://intetnet.github.io/html/list.html)
 #### 大数据
   * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
   * [Hadoop权威指南](https://github.com/KeKe-Li/book/blob/master/Hadoop/hadoop%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
@@ -185,7 +187,16 @@
 #### 数据库
   * [TiDB](https://pingcap.com/docs-cn/)
   * [CockroachDB](https://github.com/cockroachdb/cockroach)
+  * [InfluxDB hook](https://legacy.gitbook.com/book/xtutu/influxdb-handbook/details)
+  * [Influxdb 使用笔记](https://anyof.me/articles/390)
 ### 编程书大全
+  
+### 开发常用工具
+  * [Json To Struct](https://mholt.github.io/json-to-go/)
+  * [Go 博客-鸟窝](http://colobu.com/)
+  * [清华大学开源镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/gitlab-ce/)
+  * [API查询-诸多语言](https://devdocs.io/)
+  * [改图宝](http://www.gaitubao.com/#)
 
 觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信**Sen0676**，加入我们的交流群一起交流学习！
 
